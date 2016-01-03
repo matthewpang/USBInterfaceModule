@@ -1,0 +1,58 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Unknown
+Receiving System Product I.D.: Unknown
+File Name                    : C:\Project Files B\arm\EXPORT\curcuits\baord_inferior.igs
+Sending System               : Autodesk DirectConnect 8.0.56.1
+Preprocessor Version         : 8.0.56.1
+File Creation Date           : 20160102.192229
+Model Creation Date          : 20160102.192229
+Units                        : CM
+Model Space Scale            : 1
+Author                       : dmb
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              13
+  Highest number of significant digits:                     13
+  Average number of significant digits:                12.8416
+  Maximum distance to origin:                          4.54784
+  Minimum distance to origin:                          2.52381
+  Effective number of significant digits:              12.4567
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+128  Rational B-spline surface                       12        12
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       2
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, January 03, 2016 08:37:59
+Finish time: Sunday, January 03, 2016 08:38:00
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
