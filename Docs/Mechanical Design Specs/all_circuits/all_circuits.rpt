@@ -1,0 +1,64 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Unknown
+Receiving System Product I.D.: Unknown
+File Name                    : C:\Project Files B\arm\EXPORT\circuits\all_circuits.igs
+Sending System               : Autodesk DirectConnect 8.0.56.1
+Preprocessor Version         : 8.0.56.1
+File Creation Date           : 20160103.140343
+Model Creation Date          : 20160103.140343
+Units                        : CM
+Model Space Scale            : 1
+Author                       : dmb
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              13
+  Highest number of significant digits:                     13
+  Average number of significant digits:                12.8722
+  Maximum distance to origin:                          4.91726
+  Minimum distance to origin:                          1.62693
+  Effective number of significant digits:              12.7014
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+102  Composite curve                               9656      9656
+110  Line                                         35809     35809
+126  Rational B-spline curve                      12181     12181
+128  Rational B-spline surface                     4800      4800
+142  Curve on a parametric surface                 4828      4828
+144  Trimmed parametric surface                    4746      4746
+314  Color definition                                 5         5
+402  Associativity instance                          33        33
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       42
+Surface feature(s)                     1
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, January 03, 2016 14:53:39
+Finish time: Sunday, January 03, 2016 14:54:38
+Processing time: 0 days, 00 hours, 00 mins, 59 secs
