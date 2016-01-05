@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\matthewpang\Documents\GitHub\USBInterfaceModule\rightinferior.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rightinferior-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rightinferior-slotholes.txt|DrillLayers=gtl,gbl
