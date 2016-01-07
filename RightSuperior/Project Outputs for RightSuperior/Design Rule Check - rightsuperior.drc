@@ -1,109 +1,59 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\USBInterfaceModule\RightSuperior\rightsuperior.PcbDoc
 Date     : 1/6/2016
-Time     : 1:25:19 AM
+Time     : 5:46:00 PM
 
-Processing Rule : Minimum Annular Ring (Minimum=7mil) (IsPad)
+Processing Rule : Hole To Hole Clearance (Gap=0mil) ((InComponent('USB-C Receptacle') AND IsPad AND InNet('GND'))),(All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (2.228mil < 3mil) Between Pad USB-C Receptacle-B12(2757.693mil,2783.543mil) on Top Layer And Pad USB-C Receptacle-SHL_GND1(2746mil,2738mil) on Multi-Layer [Top Solder] Mask Sliver [2.228mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A2(2694.701mil,2813.071mil) on Top Layer And Pad USB-C Receptacle-A1(2694.701mil,2793.386mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A3(2694.701mil,2832.756mil) on Top Layer And Pad USB-C Receptacle-A2(2694.701mil,2813.071mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A4(2694.701mil,2852.441mil) on Top Layer And Pad USB-C Receptacle-A3(2694.701mil,2832.756mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A5(2694.701mil,2872.126mil) on Top Layer And Pad USB-C Receptacle-A4(2694.701mil,2852.441mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A6(2694.701mil,2891.811mil) on Top Layer And Pad USB-C Receptacle-A5(2694.701mil,2872.126mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A7(2694.701mil,2911.496mil) on Top Layer And Pad USB-C Receptacle-A6(2694.701mil,2891.811mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A8(2694.701mil,2931.181mil) on Top Layer And Pad USB-C Receptacle-A7(2694.701mil,2911.496mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A9(2694.701mil,2950.866mil) on Top Layer And Pad USB-C Receptacle-A8(2694.701mil,2931.181mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A10(2694.701mil,2970.551mil) on Top Layer And Pad USB-C Receptacle-A9(2694.701mil,2950.866mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A11(2694.701mil,2990.236mil) on Top Layer And Pad USB-C Receptacle-A10(2694.701mil,2970.551mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-A12(2694.701mil,3009.921mil) on Top Layer And Pad USB-C Receptacle-A11(2694.701mil,2990.236mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B2(2757.693mil,2980.394mil) on Top Layer And Pad USB-C Receptacle-B1(2757.693mil,3000.079mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B3(2757.693mil,2960.709mil) on Top Layer And Pad USB-C Receptacle-B2(2757.693mil,2980.394mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B4(2757.693mil,2941.024mil) on Top Layer And Pad USB-C Receptacle-B3(2757.693mil,2960.709mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B5(2757.693mil,2921.339mil) on Top Layer And Pad USB-C Receptacle-B4(2757.693mil,2941.024mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B6(2757.693mil,2901.653mil) on Top Layer And Pad USB-C Receptacle-B5(2757.693mil,2921.339mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B7(2757.693mil,2881.968mil) on Top Layer And Pad USB-C Receptacle-B6(2757.693mil,2901.653mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B9(2757.693mil,2862.284mil) on Top Layer And Pad USB-C Receptacle-B7(2757.693mil,2881.968mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B10(2757.693mil,2822.913mil) on Top Layer And Pad USB-C Receptacle-B8(2757.693mil,2842.598mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B9(2757.693mil,2862.284mil) on Top Layer And Pad USB-C Receptacle-B8(2757.693mil,2842.598mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B11(2757.693mil,2803.228mil) on Top Layer And Pad USB-C Receptacle-B10(2757.693mil,2822.913mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.055mil < 3mil) Between Pad USB-C Receptacle-B12(2757.693mil,2783.543mil) on Top Layer And Pad USB-C Receptacle-B11(2757.693mil,2803.228mil) on Top Layer [Top Solder] Mask Sliver [1.055mil]
-Rule Violations :23
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USB-C Receptacle-SHL_GND3(2722.26mil,3066.811mil) on Multi-Layer And Pad USB-C Receptacle-SHL_GND3(2746mil,3055mil) on Multi-Layer Pad/Via Touching Holes
-   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Pad USB-C Receptacle-SHL_GND1(2746mil,2738mil) on Multi-Layer And Pad USB-C Receptacle-SHL_GND1(2722.26mil,2726.653mil) on Multi-Layer Pad/Via Touching Holes
-Rule Violations :2
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
-Rule Violations :0
-
-Processing Rule : Minimum Annular Ring (Minimum=5mil) (IsVia)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net USB_D_P Between Pad USB-C Receptacle-A6(2694.701mil,2891.811mil) on Top Layer And Pad USB-C Receptacle-B6(2757.693mil,2901.653mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net USB_D_P Between Pad USB Micro B Receptacle-USBDP(2122.441mil,3205mil) on Bottom Layer And Pad USB-C Receptacle-A6(2694.701mil,2891.811mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net USB_D_N Between Pad USB-C Receptacle-A7(2694.701mil,2911.496mil) on Top Layer And Pad USB-C Receptacle-B7(2757.693mil,2881.968mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net USB_D_N Between Pad USB Micro B Receptacle-USBDM(2122.441mil,3179.409mil) on Bottom Layer And Pad USB-C Receptacle-A7(2694.701mil,2911.496mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-SHL_GND1(2746mil,2738mil) on Multi-Layer And Pad USB-C Receptacle-B12(2757.693mil,2783.543mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-SHL_GND3(2746mil,3055mil) on Multi-Layer And Pad USB-C Receptacle-B1(2757.693mil,3000.079mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-A1(2694.701mil,2793.386mil) on Top Layer And Pad USB-C Receptacle-B12(2757.693mil,2783.543mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-A12(2694.701mil,3009.921mil) on Top Layer And Pad USB-C Receptacle-B1(2757.693mil,3000.079mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB Micro B Receptacle-SHL_GND3(2120.472mil,3351.653mil) on Multi-Layer And Pad USB Micro B Receptacle-USBGND(2122.441mil,3256.181mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB Micro B Receptacle-SHL_GND2(1970.866mil,3052.441mil) on Multi-Layer And Pad USB Micro B Receptacle-SHL_GND1(2120.472mil,3058.347mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB Micro B Receptacle-SHL_GND4(1970.866mil,3357.559mil) on Multi-Layer And Pad USB Micro B Receptacle-SHL_GND3(2120.472mil,3351.653mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-SHL_GND1(2746mil,2738mil) on Multi-Layer And Pad USB-C Receptacle-SHL_GND2(2921.079mil,2726.653mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-SHL_GND3(2746mil,3055mil) on Multi-Layer And Pad USB-C Receptacle-SHL_GND4(2921.079mil,3066.811mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB Micro B Receptacle-SHL_GND1(2120.472mil,3058.347mil) on Multi-Layer And Pad USB Micro B Receptacle-USBGND(2122.441mil,3256.181mil) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB-C Receptacle-B12(2757.693mil,2783.543mil) on Top Layer And Pad USB-C Receptacle-B1(2757.693mil,3000.079mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad USB Micro B Receptacle-SHL_GND1(2120.472mil,3058.347mil) on Multi-Layer And Pad USB-C Receptacle-SHL_GND3(2722.26mil,3066.811mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-A10(2694.701mil,2970.551mil) on Top Layer And Pad USB-C Receptacle-A11(2694.701mil,2990.236mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-B3(2757.693mil,2960.709mil) on Top Layer And Pad USB-C Receptacle-B2(2757.693mil,2980.394mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-A2(2694.701mil,2813.071mil) on Top Layer And Pad USB-C Receptacle-A3(2694.701mil,2832.756mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-B11(2757.693mil,2803.228mil) on Top Layer And Pad USB-C Receptacle-B10(2757.693mil,2822.913mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad Screw Header - 2 pos-P(2029mil,2487mil) on Multi-Layer And Pad USB-C Receptacle-A2(2694.701mil,2813.071mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-A2(2694.701mil,2813.071mil) on Top Layer And Pad USB-C Receptacle-B10(2757.693mil,2822.913mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-A10(2694.701mil,2970.551mil) on Top Layer And Pad USB-C Receptacle-B3(2757.693mil,2960.709mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +12V Between Pad USB-C Receptacle-A3(2694.701mil,2832.756mil) on Top Layer And Pad USB-C Receptacle-A10(2694.701mil,2970.551mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Pad USB-C Receptacle-A9(2694.701mil,2950.866mil) on Top Layer And Pad USB-C Receptacle-B4(2757.693mil,2941.024mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Pad USB-C Receptacle-A4(2694.701mil,2852.441mil) on Top Layer And Pad USB-C Receptacle-B9(2757.693mil,2862.284mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Pad USB Micro B Receptacle-+5VBus(2122.441mil,3153.819mil) on Bottom Layer And Pad USB-C Receptacle-A9(2694.701mil,2950.866mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5V Between Pad USB-C Receptacle-B9(2757.693mil,2862.284mil) on Top Layer And Pad USB-C Receptacle-B4(2757.693mil,2941.024mil) on Top Layer 
-Rule Violations :28
-
-Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Processing Rule : Width Constraint (Min=7mil) (Max=30mil) (Preferred=8mil) (InNetClass('All Nets'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=8mil) (Max=30mil) (Preferred=10mil) (InNetClass('All Nets'))
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=5mil) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=4mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (IsPad)
 Rule Violations :0
 
 
-Violations Detected : 53
+Violations Detected : 0
 Time Elapsed        : 00:00:00

@@ -1,89 +1,53 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\USBInterfaceModule\rightinferior.PcbDoc
-Date     : 1/5/2016
-Time     : 5:47:49 PM
+Date     : 1/6/2016
+Time     : 5:46:10 PM
 
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Processing Rule : Minimum Annular Ring (Minimum=5mil) (All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
-
-Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
-Rule Violations :0
-
-Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=8mil) (Max=30mil) (Preferred=10mil) (InNetClass('All Nets'))
-Rule Violations :0
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
-Rule Violations :0
-
-Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
-Rule Violations :0
-
-Processing Rule : Un-Routed Net Constraint ( (All) )
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B12(1339.362mil,1076.236mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B11(1311.803mil,1060.488mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B10(1311.803mil,1028.992mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B9(1339.362mil,1013.244mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B8(1311.803mil,997.496mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B7(1339.362mil,981.748mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B6(1339.362mil,950.252mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B5(1311.803mil,934.504mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B4(1339.362mil,918.756mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B3(1311.803mil,903.008mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B2(1311.803mil,871.512mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-B1(1339.362mil,855.764mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-H2(1364.953mil,824.268mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-H1(1364.953mil,1107.732mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-SHL_GND1(1315.74mil,1128.598mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-SHL_GND2(1081.488mil,1142.772mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-SHL_GND3(1315.74mil,803.402mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-SHL_GND4(1081.488mil,789.228mil) on Multi-Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A1(1387mil,1074.268mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A2(1387mil,1054.583mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A3(1387mil,1034.898mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A4(1387mil,1015.213mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A5(1387mil,995.528mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A6(1387mil,975.842mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A7(1387mil,956.158mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A8(1387mil,936.472mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A9(1387mil,916.787mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A10(1387mil,897.102mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A11(1387mil,877.417mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Pad USB-C Receptacle-A12(1387mil,857.732mil) on Top Layer And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Track (1107mil,766mil)(1422mil,766mil) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Track (1422mil,766mil)(1422mil,1166mil) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Track (1107mil,1166mil)(1422mil,1166mil) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Track (1047mil,811mil)(1047mil,1121mil) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Text "." (1432mil,1076mil) on Top Overlay And Board Edge 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 6mil) Between Text "USB-C Receptacle" (1916.5mil,1218.5mil) on Bottom Overlay And Board Edge 
-Rule Violations :36
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=5mil) (All)
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=30mil) (Preferred=10mil) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=4mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 
-Violations Detected : 36
-Time Elapsed        : 00:00:00
+Violations Detected : 0
+Time Elapsed        : 00:00:01
