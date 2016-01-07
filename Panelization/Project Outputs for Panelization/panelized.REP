@@ -7,8 +7,6 @@ Generating : Top Layer
 
     Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Multi-Layer
 
 
@@ -38,8 +36,6 @@ Generating : Bottom Layer
       File : panelized.GBL
 
     Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
 
     Adding Layer      : Multi-Layer
 
@@ -76,8 +72,6 @@ Generating : Bottom Pad Master
 
     Adding Layer      : Multi-Layer
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
     D15
@@ -87,7 +81,6 @@ Used DCodes :
     D19
     D20
     D21
-    D22
     D25
     D26
     D28
@@ -103,8 +96,6 @@ Generating : Top Pad Master
 
     Adding Layer      : Multi-Layer
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
     D10
@@ -116,7 +107,6 @@ Used DCodes :
     D19
     D20
     D21
-    D22
     D25
     D26
 *************************************************************
@@ -127,12 +117,9 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
     D14
-    D16
     D33
 *************************************************************
 
@@ -141,8 +128,6 @@ Generating : Top Paste
       File : panelized.GTP
 
     Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
 
     Adding Layer      : Top Layer
 
@@ -153,7 +138,6 @@ Used DCodes :
     D10
     D11
     D15
-    D16
 *************************************************************
 
 *************************************************************
@@ -162,16 +146,12 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D27
     D34
     D35
     D36
@@ -187,6 +167,8 @@ Used DCodes :
     D46
     D47
     D48
+    D49
+    D50
 *************************************************************
 
 *************************************************************
@@ -195,16 +177,12 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D27
     D36
     D37
     D38
@@ -221,6 +199,8 @@ Used DCodes :
     D49
     D50
     D51
+    D52
+    D53
 *************************************************************
 
 *************************************************************
@@ -229,8 +209,6 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Mechanical 1
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
@@ -238,7 +216,6 @@ Generating : Bottom Paste
 
 Used DCodes :
     D15
-    D16
     D28
     D29
     D30
@@ -250,12 +227,9 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
     D14
-    D16
     D33
 *************************************************************
 
@@ -265,11 +239,8 @@ Generating : Keep-Out Layer
 
     Adding Layer      : Keep-Out Layer
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D16
 *************************************************************
 
 *************************************************************
@@ -278,18 +249,14 @@ Generating : Mechanical 1
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Mechanical 1
-
 
 Used DCodes :
-    D16
+    D54
 *************************************************************
 
 *************************************************************
 Generating : Drill Drawing
       File : panelized.GD1
-
-    Adding Layer      : Mechanical 1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -297,17 +264,14 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D16
-    D52
-    D53
-    D54
+    D55
+    D56
+    D57
 *************************************************************
 
 *************************************************************
 Generating : Drill Guide
       File : panelized.GG1
-
-    Adding Layer      : Mechanical 1
 
     Adding Drill Pair : Top Layer-Bottom Layer
 
@@ -315,7 +279,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D16
-    D52
+    D55
 *************************************************************
 

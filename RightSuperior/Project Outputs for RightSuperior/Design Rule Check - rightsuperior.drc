@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\USBInterfaceModule\RightSuperior\rightsuperior.PcbDoc
 Date     : 1/6/2016
-Time     : 7:56:38 PM
+Time     : 10:22:42 PM
 
 Processing Rule : Hole To Hole Clearance (Gap=0mil) ((InComponent('USB-C Receptacle') AND IsPad AND InNet('GND'))),(All)
 Rule Violations :0
@@ -24,7 +24,7 @@ Rule Violations :0
 Processing Rule : Minimum Annular Ring (Minimum=5mil) (IsVia)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=4mil) (Max=150mil) (All)
+Processing Rule : Hole Size Constraint (Min=3mil) (Max=150mil) (All)
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
