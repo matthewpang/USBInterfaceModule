@@ -12,4 +12,4 @@ From  : Project [Panelization.PrjPcb]
 Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 1:08:34 AM On 1/7/2016
+Finished Output Generation At 1:37:56 PM On 1/7/2016

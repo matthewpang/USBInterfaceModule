@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\USBInterfaceModule\RightSuperior\rightsuperior.PcbDoc
 Date     : 1/7/2016
-Time     : 1:07:34 AM
+Time     : 4:02:44 PM
 
 Processing Rule : Minimum Annular Ring (Minimum=7mil) (IsPad)
 Rule Violations :0
@@ -56,4 +56,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
