@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RightSuperior.PrjPcb]
+   Generated File[rightsuperior.RUL]
+   Generated File[rightsuperior.EXTREP]
+   Generated File[rightsuperior.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:39:14 PM On 1/6/2016
