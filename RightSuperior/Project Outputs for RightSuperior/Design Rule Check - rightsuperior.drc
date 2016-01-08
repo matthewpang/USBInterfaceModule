@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\matthewpang\Documents\GitHub\USBInterfaceModule\RightSuperior\rightsuperior.PcbDoc
 Date     : 1/8/2016
-Time     : 12:06:20 AM
+Time     : 10:25:53 AM
 
 Processing Rule : Hole To Hole Clearance (Gap=0mil) ((InComponent('USB-C Receptacle') AND IsPad AND InNet('GND'))),(All)
 Rule Violations :0
