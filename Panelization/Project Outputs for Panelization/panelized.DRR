@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: panelized.PcbDoc   1/7/2016  1:37:56 PM
+NCDrill File Report For: panelized.PcbDoc   1/8/2016  12:07:08 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -11,12 +11,12 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 T1      5mil (0.127mm)                                            Round             7         PTH        0.50inch (12.70mm)
 T2      10mil (0.254mm)                                           Round             7         PTH        0.72inch (18.29mm)
 T3      15mil (0.381mm)                                           Round             10        PTH        1.31inch (33.19mm)
-T4      20mil (0.5mm)           +/-1mil (0.03mm)                  Slot              1         PTH        0.01inch (0.35mm)
-T5      22mil (0.551mm)         +/-2mil (0.05mm)                  Slot              2         PTH        0.66inch (16.83mm)
-T6      24mil (0.599mm)         +/-2mil (0.05mm)                  Slot              2         PTH        0.79inch (19.98mm)
-T7      28mil (0.701mm)         +/-2mil (0.05mm)                  Slot              8         PTH        8.41inch (213.53mm)
-T8      34mil (0.851mm)         +/-2mil (0.05mm)                  Slot              2         PTH        0.63inch (16.02mm)
-T9      51mil (1.3mm)                                             Round             4         PTH        2.00inch (50.82mm)
+T4      22mil (0.551mm)         +/-2mil (0.05mm)                  Slot              2         PTH        0.66inch (16.83mm)
+T5      24mil (0.599mm)         +/-2mil (0.05mm)                  Slot              2         PTH        0.79inch (19.98mm)
+T6      28mil (0.701mm)         +/-2mil (0.05mm)                  Slot              8         PTH        8.41inch (213.53mm)
+T7      34mil (0.851mm)         +/-2mil (0.05mm)                  Slot              2         PTH        0.63inch (16.02mm)
+T8      51mil (1.3mm)                                             Round             4         PTH        2.00inch (50.82mm)
+T9      20mil (0.5mm)           +/-1mil (0.03mm)                  Slot              1         NPTH       0.01inch (0.35mm)
 T10     26mil (0.65mm)          +/-1mil (0.03mm)                  Round             1         NPTH       0.00inch (0.00mm)
 T11     32mil (0.8mm)           +/-2mil (0.05mm)                  Round             2         NPTH       0.20inch (5.00mm)
 T12     118mil (3mm)            +/-2mil (0.05mm)                  Round             1         NPTH       0.00inch (0.00mm)
