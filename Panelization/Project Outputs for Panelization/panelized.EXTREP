@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: panelized.GBR   1/8/2016  10:26:07 AM
+Gerber File Extension Report For: panelized.GBR   1/8/2016  11:51:19 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -18,6 +18,7 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 .GM1                Mechanical 1                            
+.GM2                Mechanical 2                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------
